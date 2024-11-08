@@ -97,3 +97,6 @@ books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 polyai.ai
+ads.youtube.com
+an.facebook.com
+pixel.facebook.com
