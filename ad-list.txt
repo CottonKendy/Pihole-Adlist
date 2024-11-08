@@ -96,3 +96,4 @@ metrics.mzstatic.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
+polyai.ai
