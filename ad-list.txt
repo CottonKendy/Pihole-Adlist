@@ -51,7 +51,6 @@ events.reddit.com
 ads.pinterest.com
 log.pinterest.com
 analytics.pinterest.com
-ads.youtube.com
 ads-api.tiktok.com
 analytics.tiktok.com
 ads-sg.tiktok.com
@@ -97,6 +96,5 @@ books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 polyai.ai
-ads.youtube.com
 an.facebook.com
 pixel.facebook.com
