@@ -99,3 +99,4 @@ polyai.ai
 an.facebook.com
 pixel.facebook.com
 flipped.chat
+googleads.g.doubleclick.net
