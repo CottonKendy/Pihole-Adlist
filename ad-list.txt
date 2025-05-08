@@ -98,3 +98,4 @@ notes-analytics-events.apple.com
 polyai.ai
 an.facebook.com
 pixel.facebook.com
+flipped.chat
