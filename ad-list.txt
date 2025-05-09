@@ -100,3 +100,6 @@ an.facebook.com
 pixel.facebook.com
 flipped.chat
 googleads.g.doubleclick.net
+wsup.ai
+amzn.to
+click.a-ads.com
