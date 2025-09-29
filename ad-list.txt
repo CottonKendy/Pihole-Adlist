@@ -103,3 +103,7 @@ googleads.g.doubleclick.net
 wsup.ai
 amzn.to
 click.a-ads.com
+ads.google.com
+adservice.google.com
+pagead2.googleadservices.com
+googleadservices.com
